@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS testBatch;
+
+CREATE TABLE testBatch (
+  id INT PRIMARY KEY AUTO_INCREMENT,
+  uname VARCHAR (50)
+);
