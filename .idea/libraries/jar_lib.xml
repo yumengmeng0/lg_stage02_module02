@@ -6,6 +6,7 @@
     <JAVADOC />
     <SOURCES>
       <root url="file://C:/software/jar_lib" />
+      <root url="jar://$USER_HOME$/.ideaLibSources/dom4j-1.6.1-sources.jar!/" />
     </SOURCES>
     <jarDirectory url="file://C:/software/jar_lib" recursive="false" />
     <jarDirectory url="file://C:/software/jar_lib" recursive="false" type="SOURCES" />

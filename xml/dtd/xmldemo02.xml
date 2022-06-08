@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<employees>
+    <employee eid="2">
+        <ename>小丽</ename>
+        <age>20</age>
+        <sex>女</sex>
+        <salary>5000</salary>
+        <empdate>2001-02-02</empdate>
+    </employee>
+
+</employees>
